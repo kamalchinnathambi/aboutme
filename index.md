@@ -31,7 +31,7 @@ Please follow the link for [my google scholar](https://scholar.google.com/citati
 
 - Strong interest in writing and developments of numerical codes.
 
-## Publications
+## Publications ([pdf](https://github.com/kamalchinnathambi/aboutme/blob/master/ckamal-pub_list.pdf))
 
 - D. Mondal, V. Srihari, **C. Kamal**, H. Poswal, A. B. Garg, A. Thamizhavel, S. Banik, A. Chakrabarti, T. Ganguli1, S. M. Sharma, High pressure studies on properties of FeGa3 : Role of on-site coulomb correlation, Physical Review B, 95, 134105 (2017) 
 
