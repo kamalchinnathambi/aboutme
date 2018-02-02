@@ -6,6 +6,10 @@
 
 I am currently working as a **Scientist** in Theory and Simulations Lab, **Raja Ramanna Centre for Advanced Technology, Indore, INDIA**. This website contains information about me and my research. 
 
+You may contact me at kamal.chinnathambi@gmail.com
+
+Please follow the link for [my google scholar](https://scholar.google.com/citations?user=kbfO8DsAAAAJ&hl=en)
+
 ### Educations
 
 - 2014 Ph. D. from Homi Bhabha National Institute (HBNI), Mumbai, India. Thesis title: “Ab initio Studies on Properties of Nanostructures”
