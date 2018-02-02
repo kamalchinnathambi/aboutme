@@ -10,7 +10,7 @@ You may contact me at kamal.chinnathambi@gmail.com
 
 Please follow the link for [my google scholar](https://scholar.google.com/citations?user=kbfO8DsAAAAJ&hl=en)
 
-### Educations
+### Education
 
 - 2014 Ph. D. from Homi Bhabha National Institute (HBNI), Mumbai, India. Thesis title: “Ab initio Studies on Properties of Nanostructures”
 
